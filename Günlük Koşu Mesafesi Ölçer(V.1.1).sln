@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Günlük Koşu Mesafesi Ölçer(V.1.1)", "Günlük Koşu Mesafesi Ölçer(V.1.1)\Günlük Koşu Mesafesi Ölçer(V.1.1).csproj", "{444FC9EB-C7C3-418B-98F0-14E91C5D974D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444FC9EB-C7C3-418B-98F0-14E91C5D974D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444FC9EB-C7C3-418B-98F0-14E91C5D974D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444FC9EB-C7C3-418B-98F0-14E91C5D974D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444FC9EB-C7C3-418B-98F0-14E91C5D974D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {195EBCBA-BEF4-4A96-AE3A-E09ECF7BD42F}
+	EndGlobalSection
+EndGlobal
